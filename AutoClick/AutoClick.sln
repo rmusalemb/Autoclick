@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoClick", "AutoClick.csproj", "{CB4FF01A-505F-45CC-B3E6-CD683EE21470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Poryecto para generar autoclick seguidos en juegos de video como roblos o mincraft. creado por roberto musalem - rmdroiddev@gmail.com
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB4FF01A-505F-45CC-B3E6-CD683EE21470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4FF01A-505F-45CC-B3E6-CD683EE21470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4FF01A-505F-45CC-B3E6-CD683EE21470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4FF01A-505F-45CC-B3E6-CD683EE21470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD72FAA-930C-4EA0-8AC6-EA6294D59F46}
+	EndGlobalSection
+EndGlobal

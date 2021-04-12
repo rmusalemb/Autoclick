@@ -1,0 +1,9 @@
+C:\Desarrollo\AutoClick\AutoClick\bin\Debug\AutoClick.exe.config
+C:\Desarrollo\AutoClick\AutoClick\bin\Debug\AutoClick.exe
+C:\Desarrollo\AutoClick\AutoClick\bin\Debug\AutoClick.pdb
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.Properties.Resources.resources
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.GenerateResource.cache
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.csproj.CoreCompileInputs.cache
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.exe
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.pdb
+C:\Desarrollo\AutoClick\AutoClick\obj\Debug\AutoClick.autoclick.resources
