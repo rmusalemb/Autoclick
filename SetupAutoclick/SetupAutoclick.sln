@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupAutoclick", "SetupAutoclick.vdproj", "{4C04EDCA-A360-4913-A9FB-60633A48AC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C04EDCA-A360-4913-A9FB-60633A48AC38}.Debug|Default.ActiveCfg = Debug
+		{4C04EDCA-A360-4913-A9FB-60633A48AC38}.Debug|Default.Build.0 = Debug
+		{4C04EDCA-A360-4913-A9FB-60633A48AC38}.Release|Default.ActiveCfg = Release
+		{4C04EDCA-A360-4913-A9FB-60633A48AC38}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB42068B-E992-4638-9750-BE1DAE346443}
+	EndGlobalSection
+EndGlobal
